@@ -8,7 +8,7 @@ Welcome to my data analytics project repository! This collection features the ha
 
 ### 1. Olist E-commerce Sales Analysis
 - **Dataset**: Brazilian Olist e-commerce data
-- **Tools**: Power BI, Excel
+- **Tools**: Tableau, Excel
 - **Highlights**:
   - Cleaned and merged customer, order, product, and seller data
   - Analyzed sales trends, delivery performance, top-selling categories
