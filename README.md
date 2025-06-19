@@ -33,7 +33,8 @@ This project explores sales data from Olist, a leading Brazilian e-commerce plat
 ## 📷 Dashboard Preview
 
 ### 🔹 Power BI
-![Dashboard](./olist-sales-analysis/olist_dashboard_powerbi.png)
+![Power BI](olist_dashboard_powerbi.png)
+
 
 
 ### 🔹 Tableau
