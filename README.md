@@ -35,7 +35,7 @@ Welcome to my data analytics project repository! This collection features the ha
 **Alekhya P**  
 📍 Hyderabad, India  
 📧 salekhya501@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) (Update with your real link)
+🔗 [LinkedIn](www.linkedin.com/in/alekhya-pilli)
 
 ---
 
