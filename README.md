@@ -70,6 +70,48 @@ This project explores sales data from Olist, a leading Brazilian e-commerce plat
 - Dashboard Design (Power BI, Excel)
 - Data-Driven Business Insights
 - Storytelling with Data
+# AdventureWorks Sales and Performance Analysis
+
+## 📌 Overview
+This project focuses on analyzing the business performance of AdventureWorks, a fictional bicycle company. The analysis covers regional sales, product performance, and customer segmentation. Both Power BI and Tableau were used to design dashboards that highlight key business insights for stakeholders.
+
+## 🛠️ Tools & Technologies
+- Power BI
+- Tableau
+- SQL (for querying AdventureWorks database)
+- Excel (for data preparation)
+
+## 📊 Key Highlights
+- Connected to the AdventureWorks database to extract sales, product, and geography data
+- Designed interactive dashboards for regional sales trends and category performance
+- Compared KPIs such as revenue, profit, sales quantity, and customer distribution
+- Built calculated fields using DAX (Power BI) and Tableau calculations
+
+## 📷 Dashboard Preview
+
+### 🔹 Power BI
+![AdventureWorks Power BI Dashboard](./adventure_dashboard_powerbi.png)
+
+### 🔹 Tableau
+![AdventureWorks Tableau Dashboard](./adventure_dashboard_tableau.png)
+
+## 📁 Files Included
+- `adventure_dashboard.pbix` – Power BI file
+- `adventure_dashboard.twbx` – Tableau workbook
+- `adventure_dashboard_powerbi.png` – Screenshot (Power BI)
+- `adventure_dashboard_tableau.png` – Screenshot (Tableau)
+- `sql_queries.sql` – SQL queries used to retrieve the data
+
+## 🧠 Key Insights
+- **Top-Selling Products**: Road bikes and mountain bikes generated the most revenue
+- **Regional Trends**: The North American region dominated sales
+- **Customer Segments**: High spenders were mostly in the professional category
+- **Profit Margins**: Some product categories had lower margins despite high sales volume
+
+---
+
+🔗 This project was completed during my internship with ExcelR in collaboration with AI Variant. It demonstrates my skills in SQL querying, BI dashboard design, and deriving business insights from data.
+
 
 ---
 
