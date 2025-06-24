@@ -90,6 +90,8 @@ This project focuses on analyzing the business performance of AdventureWorks, a 
 - Built calculated fields using DAX (Power BI) and Tableau calculations
 
 ## 📷 Dashboard Preview
+### 🔹 Excel
+![AdventureWorks Excel Dashboard]
 
 ### 🔹 Power BI
 ![AdventureWorks Power BI Dashboard](./adventure_dashboard_powerbi.png)
