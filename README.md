@@ -91,7 +91,7 @@ This project focuses on analyzing the business performance of AdventureWorks, a 
 
 ## 📷 Dashboard Preview
 ### 🔹 Excel
-![AdventureWorks Excel Dashboard]
+![AdventureWorks Excel Dashboard](https://raw.githubusercontent.com/Alekhya-DataAnalyst123/ExcelR-internship-projects/474b239d7d748368074a554d473cb30e7cbae0f8/Excel%20Adventurework%20ss.png)
 
 ### 🔹 Power BI
 ![AdventureWorks Power BI Dashboard](./adventure_dashboard_powerbi.png)
