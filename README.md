@@ -1,5 +1,4 @@
-# ExcelR-internship-projects
-Real-world data analytics projects completed during my internship at ExcelR, including Olist and AdventureWorks datasets. Tools used: Power BI,Tableau,SQL,Excel.
+
 # ExcelR Internship Projects
 
 Welcome to my data analytics project repository! This collection features the hands-on projects I completed as part of my internship through ExcelR in collaboration with AI Variant. These projects reflect practical business scenarios and showcase my skills in data cleaning, exploration, visualization, and insight generation using tools like Power BI, SQL, and Excel.
