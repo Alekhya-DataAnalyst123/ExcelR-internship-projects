@@ -118,7 +118,7 @@ This project focuses on analyzing the business performance of AdventureWorks, a 
 
 
 ---
-> ⚠️ Note: Due to file size limits, the full dashboard files (.pbix, .twbx) are not uploaded. Please refer to the screenshots below for a detailed visual walkthrough of the analysis.
+> ⚠️ Note: Due to file size limits, the full dashboard files (.pbix, .twbx , .xlsx) are not uploaded. Please refer to the screenshots above for a detailed visual walkthrough of the analysis.
 
 
 ### 📬 Contact
