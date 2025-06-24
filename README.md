@@ -37,8 +37,8 @@ This project explores sales data from Olist, a leading Brazilian e-commerce plat
 
 
 ### 🔹 Tableau
-![Olist Tableau Dashboard](./olist_dashboard_tableau.png)
 
+!(https://github.com/Alekhya-DataAnalyst123/ExcelR-internship-projects/blob/main/Olist%20Tableau%20ss.png?raw=true)
 ## 📁 Files Included
 - `olist_dashboard.pbix` – Power BI file
 - `olist_dashboard.twbx` – Tableau workbook
