@@ -31,7 +31,7 @@ This project explores sales data from Olist, a leading Brazilian e-commerce plat
 
 ## 📷 Dashboard Preview
 ### 🔹 Excel
-![Excel Dashboard](ttps://github.com/Alekhya-DataAnalyst123/ExcelR-internship-projects/blob/main/olist%20Excel%20ss.png?raw=true)
+![Excel Dashboard](https://github.com/Alekhya-DataAnalyst123/ExcelR-internship-projects/blob/main/olist%20Excel%20ss.png?raw=true)
 
 ### 🔹 Power BI
 ![Power BI Dashboard](https://raw.githubusercontent.com/Alekhya-DataAnalyst123/ExcelR-internship-projects/d776bb4826b3541b53e8fd5b5800cc9654f044f2/olist%20powerbi%20ss.png)
